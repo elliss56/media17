@@ -1,9 +1,7 @@
-media(min-width:350px) {.wrap__title{
-    font-size:15px;
-}}
-@media only screen and (max-width : 1920px) { /* CSS правила */ }
+
+@media only screen and (max-width : 1920px) { /* CSS пїЅпїЅпїЅпїЅпїЅпїЅпїЅ */ }
 @media only screen and (max-width : 1680px) {.wrap__title{
-    font-size:6px;
+    font-size:60px;
 }}
 
 @media only screen and (max-width : 1024px) {.wrap__title{
@@ -34,9 +32,9 @@ media(min-width:350px) {.wrap__title{
 
 
 @media all and (orientation: landscape) {
-  /* CSS правила для устройства в альбомном режиме */
+  /* CSS пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ */
 }
 
 @media all and (orientation: portrait) {
-   /* CSS правила для устройства в портретном режиме */
+   /* CSS пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ */
 }
